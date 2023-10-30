@@ -1,0 +1,51 @@
+.banner{
+    text-align: center;
+    background-color: rgb(195, 3, 3);
+}
+
+#tidefit-header {
+    font-family: "Times", serif; 
+    color: #FFFFFF;
+    font-size: 48px;
+    /* background-image: url('/Users/DavidWMelvin/Desktop/mis321-pa2-dwmelvin/Resources/imgs/picofjay.jpg'); */
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+
+  #workout-log-header {
+    font-family: "Roboto", sans-serif;
+    font-size: 36px; 
+    text-align: center; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    color: #333;
+    width: 100%;
+    margin-left: 0; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    background-clip: text;
+
+}
+
+.vertical-line {
+    border-left: 2px solid #333; 
+    padding-left: 10px; 
+}
+
+#motto-statement {
+    font-family: Arial,sans-serif; 
+    font-size: 20px;  
+    text-align: center; 
+    margin-top: 10px;  
+    margin-bottom: 20px; 
+    color: #333; 
+    width: 100%; 
+    padding-bottom: 10px;
+    border-bottom: 5px solid #333;
+    padding-top: 10px;
+    border-top: 5px solid #333;
+}
